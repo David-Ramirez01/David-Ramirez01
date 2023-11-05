@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Back-end page](https://github.com/DevACampuzano/Diplomado_BackEnd)
 
-- 💬 Ask me about **React,python,aws**
+- 💬 Ask me about ** React, python, aws**
 
 - 📫 How to reach me **aimardavidninor@hotmail.com**
 
