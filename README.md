@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aimar David Niño Ramirez</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **React,PHP,Python,Laravel,JavaScript**
+- 🌱 I’m currently learning **React,Python,JavaScript**
 
 - 👯 I’m looking to collaborate on [Back-end page](https://github.com/DevACampuzano/Diplomado_BackEnd)
 
